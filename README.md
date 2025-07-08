@@ -1,13 +1,9 @@
-Here is a complete Lead Software Engineer resume in Markdown format. You can copy and paste this into any Markdown editor or viewer (such as VS Code, Typora, or StackEdit), or convert it to PDF/Word as needed.
-
----
-
-# [Your Name]
+# Shelly Nelson
 ## Lead Software Engineer
 
-**Email:** your.email@example.com | **Phone:** (555) 123-4567  
+**Email:** shelly.nelson@example.com | **Phone:** (949) 371-3159
 **LinkedIn:** linkedin.com/in/yourprofile | **GitHub:** github.com/yourusername  
-**Location:** [City, State] | **Experience:** 18+ Years
+**Location:** [Indianapolis, Indiana] | **Experience:** 18+ Years
 
 ---
 
@@ -29,12 +25,12 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 ### Cloud & DevOps
 - **Microsoft Azure:** App Services, Functions, Logic Apps, Service Bus, Event Grid
 - **Azure DevOps:** CI/CD pipelines, Git, Azure Repos, Azure Boards, Release Management
-- **Containerization:** Docker, Kubernetes, Azure Container Instances
+- **Containerization:** Docker, Kubernetes
 - **Infrastructure:** Azure ARM templates, Terraform, Infrastructure as Code
 
 ### Databases & Data
-- **SQL Server:** SQL Server 2012-2022, Azure SQL Database, SQL Server Analysis Services
-- **NoSQL:** Azure Cosmos DB, MongoDB, Redis Cache
+- **SQL Server:** SQL Server 2005-2022, Azure SQL Database, SQL Server Analysis Services
+- **NoSQL:** Redis Cache
 - **Data Processing:** Azure Data Factory, Azure Synapse Analytics, Power BI
 
 ### Architecture & Design
@@ -52,7 +48,7 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 
 ## PROFESSIONAL EXPERIENCE
 
-### Senior Lead Software Engineer | [Company Name] | 2020 - Present
+### Lead Software Engineer | Salesforce | 2012 - Present
 *Leading development of enterprise-scale applications and mentoring development teams*
 
 **Key Achievements:**
@@ -69,7 +65,7 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 - Integrated Azure Active Directory for enterprise authentication and authorization
 - Developed custom middleware for logging, monitoring, and error handling
 
-### Lead Software Engineer | [Previous Company] | 2015 - 2020
+### Senior Software Engineer | UST Global | 2008 - 2012
 *Led development teams and delivered complex enterprise solutions*
 
 **Key Achievements:**
@@ -85,7 +81,7 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 - Designed and optimized SQL Server stored procedures and database schemas
 - Integrated with external APIs using HttpClient and JSON serialization
 
-### Senior Software Engineer | [Previous Company] | 2010 - 2015
+### Senior Web Developer | Sherston Software | 2007 - 2008
 *Developed and maintained enterprise applications using Microsoft technologies*
 
 **Key Achievements:**
@@ -99,7 +95,7 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 - Created Crystal Reports and SQL Server Reporting Services (SSRS) reports
 - Implemented Windows Authentication and role-based security
 
-### Software Engineer | [Previous Company] | 2005 - 2010
+### Software Engineer | ExactTarget (Salesforce | 2005 - 2010
 *Entry-level development focusing on Microsoft technologies*
 
 **Key Achievements:**
@@ -117,7 +113,7 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 
 ## EDUCATION
 
-**Bachelor of Science in Computer Science** | [University Name] | 2005  
+**Masters in Computer Application** | Mahatma Gandhi University | 2003-2006  
 *Relevant Coursework:* Software Engineering, Database Systems, Web Development, Algorithms & Data Structures
 
 ---
