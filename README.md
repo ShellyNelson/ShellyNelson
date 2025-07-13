@@ -1,8 +1,8 @@
 # Shelly Nelson
 ## Lead Software Engineer
 
-**Email:** shelly.nelson@example.com | **Phone:** (949) 371-3159
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shellymn/) | **GitHub:** github.com/ShellyNelson  
+**Email:** shelly.nelson@outlook.com | **Phone:** (949) 371-3159
+**LinkedIn:** [(https://www.linkedin.com/in/shellymn/] | **GitHub:** github.com/ShellyNelson  
 **Location:** [Indianapolis, Indiana] | **Experience:** 18+ Years
 
 ---
