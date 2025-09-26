@@ -60,10 +60,6 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 
 **Technical Contributions:**
 - Migrated legacy .NET Framework applications to .NET 6, improving performance by 60%
-- Implemented Azure Service Bus for asynchronous message processing, handling 500K+ messages daily
-- Designed database architecture using Entity Framework Core with SQL Server, optimizing queries for 5M+ records
-- Integrated Azure Active Directory for enterprise authentication and authorization
-- Developed custom middleware for logging, monitoring, and error handling
 
 ### Senior Software Engineer | UST Global | 2008 - 2012
 *Led development teams and delivered complex enterprise solutions*
@@ -95,14 +91,6 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 - Created Crystal Reports and SQL Server Reporting Services (SSRS) reports
 - Implemented Windows Authentication and role-based security
 
-### Software Engineer | ExactTarget (Salesforce | 2005 - 2010
-*Entry-level development focusing on Microsoft technologies*
-
-**Key Achievements:**
-- Developed 5+ web applications using ASP.NET 2.0/3.5
-- Learned and implemented best practices in software development
-- Contributed to team success through collaborative development and knowledge sharing
-
 **Technical Contributions:**
 - Built ASP.NET Web Forms applications with ADO.NET data access
 - Created SQL Server stored procedures and database queries
@@ -119,11 +107,6 @@ Accomplished Lead Software Engineer with 18+ years of experience architecting, d
 ---
 
 ## CERTIFICATIONS
-
-- Microsoft Certified: Azure Developer Associate (AZ-204)
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-- Microsoft Certified: .NET Developer (70-483)
-- Microsoft Certified: SQL Server Database Administrator (70-462)
 
 ---
 
