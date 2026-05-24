@@ -53,14 +53,10 @@
   *Indianapolis, Indiana — joined via ExactTarget (Senior Software Developer, Sep 2012 - Sep 2013) prior to the Salesforce acquisition.*
 
   **Key Achievements:**
-  - Architected and delivered a microservices-based e-commerce platform serving 2M+ users, resulting in 40% performance improvement
-  - Led a team of 8 developers across multiple projects, improving team velocity by 35% through process optimization
-  - Implemented Azure DevOps CI/CD pipelines reducing deployment time from 4 hours to 15 minutes
-  - Designed and developed RESTful APIs using ASP.NET Core Web API, handling 10M+ daily requests
-  - Mentored 5 junior developers through code reviews and technical guidance, 3 promoted to mid-level positions
+
 
   **Technical Contributions:**
-  - Migrated legacy .NET Framework applications to .NET 6, improving performance by 60%
+
 
   ### UST Global | May 2008 - September 2012
   *Led development teams and delivered complex enterprise solutions across multiple client engagements.*
