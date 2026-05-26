@@ -9,41 +9,43 @@
 
   ## PROFESSIONAL SUMMARY
 
-  Accomplished Lead Software Engineer with 18+ years of experience architecting, developing, and delivering enterprise-scale applications using Microsoft technologies. Proven track record of leading cross-functional development teams, mentoring junior developers, and driving technical excellence. Expert in .NET ecosystem, Azure cloud services, and
-  modern software development practices. Demonstrated success in delivering complex solutions that drive business value and technical innovation.
+Accomplished Lead Software Engineer with 20+ years of experience architecting, developing, and delivering enterprise-scale applications using Microsoft technologies. Proven track record of leading cross-functional development teams, mentoring junior developers, and driving technical excellence. Expert in .NET ecosystem, Azure cloud services, and  modern software development practices. Demonstrated success in delivering complex solutions that drive business value and technical innovation. currently at the Lead Member of Technical Staff (LMTS) level — Salesforce's senior individual-contributor track. I build and operate the data-ingest platform for one of the largest marketing automation products in the industry.
 
   ---
 
   ## TECHNICAL SKILLS
 
   ### Programming Languages & Frameworks
-  - **.NET:** .NET Framework 4.x, .NET 5/6/7/8, ASP.NET Core, ASP.NET MVC, Web API
-  - **C#:** Advanced C# programming, LINQ, async/await, generics, reflection, delegates
-  - **JavaScript/TypeScript:** ES6+, React, Angular, Vue.js, Node.js
+  - **.NET:** .NET Framework 4.x, .NET 5/6/7/8, ASP.NET Core, ASP.NET MVC, Web API.
+  - **C#:** Advanced C# programming.
+  - **JavaScript/TypeScript:** ES6+, Node.js
   - **SQL:** T-SQL, SQL Server, Entity Framework Core, Dapper, ADO.NET
   - **Other:** Java, PowerShell, Python, HTML5, CSS3, Bootstrap
 
   ### Cloud & DevOps
-  - **Microsoft Azure:** App Services, Functions, Logic Apps, Service Bus, Event Grid
-  - **Azure DevOps:** CI/CD pipelines, Git, Azure Repos, Azure Boards, Release Management
+  - **AWS/Azure:** App Services, Functions, Logic Apps, Service Bus, Event Grid
+  - **DevOps:** CI/CD pipelines, Git, Azure Repos, Azure Boards, Release Management
   - **Containerization:** Docker, Kubernetes
-  - **Infrastructure:** Azure ARM templates, Terraform, Infrastructure as Code
+  - **Infrastructure:**Terraform, Infrastructure as Code
 
   ### Databases & Data
   - **SQL Server:** SQL Server 2005-2022, Azure SQL Database, SQL Server Analysis Services
   - **NoSQL:** Redis Cache
-  - **Data Processing:** Azure Data Factory, Azure Synapse Analytics, Power BI, Data Analysis
+  - **Data Processing:** Azure Data Factory
 
   ### Architecture & Design
   - **Patterns:** Microservices, CQRS, Event Sourcing, Repository Pattern, Unit of Work
-  - **APIs:** RESTful APIs, GraphQL, gRPC, API Gateway, Azure API Management
-  - **Messaging:** Azure Service Bus, RabbitMQ, Message Queues, Event-Driven Architecture
+  - **APIs:** RESTful APIs, GraphQL, gRPC, API Gateway
+  - **Messaging:** AWS/Azure Service Bus, RabbitMQ, Message Queues, Event-Driven Architecture
   - **Security:** OAuth 2.0, JWT, Azure Active Directory, Identity Server
 
   ### Testing & Quality
   - **Testing:** Unit Testing (MSTest, NUnit, xUnit), Integration Testing, E2E Testing
   - **Tools:** Selenium, Postman, Swagger, SonarQube, Code Coverage
   - **Methodologies:** TDD, BDD, Code Reviews, Static Code Analysis
+
+  ### AI
+  - **AI driven development:** Claude, Cursor
 
   ---
 
@@ -53,7 +55,13 @@
   *Indianapolis, Indiana — joined via ExactTarget (Senior Software Developer, Sep 2012 - Sep 2013) prior to the Salesforce acquisition.*
 
   **Key Achievements:**
+  I work on the data-ingest platform for a large-scale marketing automation product. My ownership areas include:
 
+  - Bulk data import pipelines — high-throughput ingest of customer data from external systems
+  - File transfer services — managed FTP/SFTP/s3/azure/gcp for customer-to-platform delivery
+  - Automation Studio — scheduled and triggered execution of data workflows
+  - Data Extensions — the platform's primary tabular data store (storage, usage reporting, lifecycle)
+  - Cross-cloud data sync — moving structured marketing data between adjacent platform products
 
   **Technical Contributions:**
 
